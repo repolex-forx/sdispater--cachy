@@ -1,0 +1,7 @@
+[2026-10-19T12:22:46Z] === AST ITERATION 1 START | repo=sdispater/cachy sha=dd1da618 ===
+[2026-10-19T12:22:46Z] [iter=1] PHASE START: ast repo=sdispater/cachy sha=dd1da618
+[2026-10-19T12:22:46Z] [iter=1] Building AST aggregate chunks
+[2026-10-19T12:22:56Z] [iter=1] AST chunks built count=1 triples=97924
+[2026-10-19T12:22:56Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/dd1da618d58d14a677df110517baf7b796f5c111/.complete
+[2026-10-19T12:22:56Z] [iter=1] PHASE END: ast elapsed_s=10 elapsed_min=0.2
+[2026-10-19T12:22:56Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json

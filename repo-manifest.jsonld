@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sdispater/cachy/commit/dd1da618d58d14a677df110517baf7b796f5c111",
       "git:hexsha": "dd1da618d58d14a677df110517baf7b796f5c111",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.3.0"
     },
     {
