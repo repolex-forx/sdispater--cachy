@@ -1,0 +1,11 @@
+{
+  "org": "sdispater",
+  "repo": "cachy",
+  "versions": [
+    {
+      "commit": "dd1da618d58d14a677df110517baf7b796f5c111",
+      "tag": "0.3.0",
+      "parsed_at": "2026-10-19T12:24:02.072820+00:00"
+    }
+  ]
+}
